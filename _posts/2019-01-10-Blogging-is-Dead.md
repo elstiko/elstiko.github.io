@@ -6,7 +6,7 @@ excerpt: "Undead, undead, undead."
 tag:
 - blog
 comments: true
-feature: /assets/img/placeholder-big.jpg.png
+feature: /assets/img/placeholder-big.jpg
 ---
 
 Here's a test post to get the ball rolling.
