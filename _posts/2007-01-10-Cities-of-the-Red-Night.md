@@ -5,7 +5,7 @@ date: 1998-01-10
 excerpt: "A Progressive Rock Band in Sydney"
 project: true
 tag:
-- blog
+- music
 comments: true
 ---
 
