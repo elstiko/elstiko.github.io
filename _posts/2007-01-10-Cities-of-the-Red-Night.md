@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cities of the Red Night"
-date: 1998-01-10
+date: 2007-01-10
 excerpt: "A Progressive Rock Band in Sydney"
 project: true
 tag:
