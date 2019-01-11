@@ -20,7 +20,9 @@ There are six new spirit companions (natural or magical pets) which I needed to 
 
 ## Difficulty
 
-The session was a bit too easy (thanks for the feedback, players!) so I bothered to look at the probability for the dice pool I'd based on John Harper's [OneSevenDesign](http://www.onesevendesign.com) work. I'd erred on the side of safety for the young players, but three dice as a maximum pool is safe enough, and it took a session for me to discover that. I decided to further simplify the character sheet along with these rules, so that you rolled one die for any risk, plus one or two more if you had a skill, assistance, or both. Equipment was now simply for fictional positioning (enabling actions which woould be impossible without), and I removed the safety net of goblin's performing heroic self-sacrifice to protect the characters. Next, I changed the pets to have 3hp, like each character, and that HP could be spent, one for one, to raise the result of the highest die on a roll. Lethality was still lessened by the text describing exhaustion for either pet or character.
+The session was a bit too easy (thanks for the feedback, players!) so I bothered to look at the probability for the dice pool I'd based on John Harper's [OneSevenDesign](http://www.onesevendesign.com) work. I'd erred on the side of safety for the young players, but three dice as a maximum pool is safe enough, and it took a session for me to discover that. I decided to further simplify the character sheet along with these rules, so that you rolled one die for any risk, plus one or two more if you had a skill, assistance, or both. Equipment was now simply for fictional positioning (enabling actions which would be impossible without), and I removed the safety net of goblin's performing heroic self-sacrifice to protect the characters. Next, I changed the pets to have 3hp, like each character, and that HP could be spent, one for one, to raise the result of the highest die on a roll. Lethality was still lessened by the text describing exhaustion for either pet or character.
+
+<script src="https://gist.github.com/elstiko/5b72085e6ec30d8796a06a9e968dd275.js"></script>
 
 ## Patches
 
