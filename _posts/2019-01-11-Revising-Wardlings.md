@@ -36,6 +36,8 @@ I started to wonder if this is worth cleaning up to release for other people to 
 
 I'd also like to revisit the backpack image for the character sheet. When I say "like to", I mean "I'm not sure if I'm still satisfied with the scratchpunk style of hasty vectors but I am dreading the effort to start over and just wish I was a better visual artist" but you get the idea. It's not thrilling me today, and I wish it would, so that might mean renewed effort and different approaches.
 
+<img src="http://elstiko.github.io/assets/img/Illustrator_2019-01-11_22-51-09.png">
+
 ## Next, the Adventure and Treasures
 
 Once all this is done, I'll need to write the adventure which has been brewing in my head, maybe a template for future ones (so others can write their own) and determine new magic items to help the characters without making things too easy. That said, I still think that the clever use of a magic item in the last session totally deserved to circumvent the final challenge!
