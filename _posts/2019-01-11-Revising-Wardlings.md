@@ -10,6 +10,8 @@ comments: true
 feature: /assets/img/Wizkids-Wardlings-8-1376x1032.jpg
 ---
 
+# Whittling down the Whatlings?
+
 Inspired by the [Lookouts comics](https://www.penny-arcade.com/comic/story/may-we-die-in-the-forest-part-1), the [Wildlings RPG](http://www.onesevendesign.com/wildlings/wildlings.pdf) and the [Wardlings miniatures](https://wizkids.com/wardlings-w2), I ran an [all-ages one-shot at Ettin Con](https://www.eventbrite.com.au/e/wardlings-tickets-46249534603) last year. The players were kids and their parents, so the ages ran from single digits to late thirties (not counting the 41yo GM). I opted for a custom ruleset to get the simplicity & tone just right, and it worked fairly well, but if I'm going to run another one-shot to utilise the second wave of minis, I need to make some adjustments (and I might as well fix a bunch of things while I'm there).
 
 ## Pets
