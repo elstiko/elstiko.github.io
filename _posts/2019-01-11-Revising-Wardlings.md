@@ -26,7 +26,7 @@ The session was a bit too easy (thanks for the feedback, players!) so I bothered
 
 ## Patches
 
-The original character sheet had lots of patches, some round and some hexagonal, but this version would have fewer, and keep them all round (cutting hexes is slow, velcro dots are already round). The players enjoy sticking the patches onto their sheets but I learned back in 2016 (Running Heroes in Trouble, another proto-kid-rpg) that glue sticks at the table are a fiddly time-suck which no-one needs.
+The original character sheet had lots of patches, some round and some hexagonal, but this version would have fewer, and keep them all round (cutting hexes is slow, velcro dots are already round). The players enjoy sticking the patches onto their sheets but I learned back in 2016 (Running *Heroes in Trouble*, another proto-kid-rpg) that glue sticks at the table are a fiddly time-suck which no-one needs.
 
 ## Finishing Touches
 
@@ -42,5 +42,5 @@ I'd also like to revisit the backpack image for the character sheet. When I say 
 
 Once all this is done, I'll need to write the adventure which has been brewing in my head, maybe a template for future ones (so others can write their own) and determine new magic items to help the characters without making things too easy. That said, I still think that the clever use of a magic item in the last session totally deserved to circumvent the final challenge!
 
-I'll try to add some images to this post when I get the chance.
+I'll try to add more images to this post if I get the chance.
 
