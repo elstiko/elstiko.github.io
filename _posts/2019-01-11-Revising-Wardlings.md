@@ -32,6 +32,8 @@ The original character sheet had lots of patches, some round and some hexagonal,
 
 I started to wonder if this is worth cleaning up to release for other people to use. The Wardlings minis are great but even games like [Hero Kids](https://herokidsrpg.blogspot.com) don't really provide the support they deserve, and I want to make it easy for anyone at the convention to run a session with them as part of our RPG asset library. The class icons, borrowed from [Dungeon World](https://dungeon.world), are proprietary and somewhat unintuitive, especially for beginners. I would love to have clearly recognisable symbols for the classes which a newcomer would understand, but couldn't find anything that sang to me. I'm currently toying with a mashup of icons-within-hero-sillhouette (hello Adobe Illustrator) and will see if that works for both players and my aesthetic. 
 
+<img src="http://elstiko.github.io/assets/img/party.jpg">
+
 I'd also like to revisit the backpack image for the character sheet. When I say "like to", I mean "I'm not sure if I'm still satisfied with the scratchpunk style of hasty vectors but I am dreading the effort to start over and just wish I was a better visual artist" but you get the idea. It's not thrilling me today, and I wish it would, so that might mean renewed effort and different approaches.
 
 ## Next, the Adventure and Treasures
