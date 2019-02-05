@@ -26,3 +26,4 @@ The combination of [tweets like this](https://twitter.com/ActiveNick/status/1092
 * For super-simple systems, you can ditch the dice entirely and flip coins in [FlipTales](https://playfliptales.com/)!
 * Special mention: I hear that some cool person (obviously not me) is releasing a free RPG later this year which fits on a business card, is diceless, paperless and practically ageless! Stay tuned!
 
+Oh, and suggestions are welcome, so if you know something I don't, please let me know in the comments! Thanks!
