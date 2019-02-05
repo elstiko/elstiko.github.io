@@ -11,7 +11,7 @@ comments: true
 feature: /assets/img/rpgs4kids.png
 ---
 
-#Role-Playing Games for Kids
+# Role-Playing Games for Kids
 
 The combination of [tweets like this](https://twitter.com/ActiveNick/status/1092228935528706054) and Google+ communities with ~2k members about to be deleted lead me to curating Yet Another List of RPGs for Children. Now that we're all going to be Blogger Refugees again, I can keep coming back to this little markdown file on my laptop and add things as they arise or resurface in my memory.
 
