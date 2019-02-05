@@ -8,7 +8,7 @@ tag:
 - kids
 - rpg
 comments: true
-#feature: /assets/img/rpgs4kids.png
+feature: /assets/img/rpgs4kids.png
 ---
 
 #Role-Playing Games for Kids
