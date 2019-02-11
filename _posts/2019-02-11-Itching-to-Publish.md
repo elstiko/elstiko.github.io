@@ -2,7 +2,7 @@
 layout: post
 title: "Itching to Publish?"
 date: 2019-02-05
-excerpt: "Get your Games Online"
+excerpt: "Get your games online"
 tag:
 - game
 - rpg
@@ -16,7 +16,7 @@ feature: /assets/img/itch.png
 
 For those who aren't familiar, [itch.io](https://itch.io) is an indie games marketplace, designed for video games, but just as useful for other digital releases, like tabletop/print-and-play games.
 
-There's been a [huge surge in uploads of physical games](https://itch.io/physical-games) since the publication of [DC's overdue call-to-arms for tabletop game designers to give the platform a try](https://medium.com/@davidcollins562/if-youve-been-keepin-up-with-the-dialogue-that-s-been-brewing-on-twitter-much-of-which-has-been-1c6e55033d1a), and they're right, the monoculture of **OneBookShelf**([DriveThruRPG](https://www.drivethrurpg.com/), [DM's Guild](https://www.dmsguild.com/), and other faces of the OBS shopfront) is starting to hurt the indie scene as much as it has helped it over the years. Itch is certainly easier to use on both sides (designer and consumer), and they take a much smaller cut of the sale.
+There's been a [huge surge in uploads of physical games](https://itch.io/physical-games) since the publication of [DC's overdue call-to-arms](https://medium.com/@davidcollins562/if-youve-been-keepin-up-with-the-dialogue-that-s-been-brewing-on-twitter-much-of-which-has-been-1c6e55033d1a) for tabletop game designers to give the platform a try, and they're right, the monoculture of **OneBookShelf**([DriveThruRPG](https://www.drivethrurpg.com/), [DM's Guild](https://www.dmsguild.com/), and other faces of the OBS shopfront) is starting to hurt the indie scene as much as it has helped it over the years. Itch is certainly easier to use on both sides (designer and consumer), and they take a much smaller cut of the sale.
 
 Helping [@WanderingGM](https://twitter.com/wanderinggm) publish [Instant RPG](https://wanderinggm.itch.io/instant-rpg) the other day was what motivated me to do more on the platform. I had put our [Tiny D&D business cards](https://ettincon.itch.io/t-d-n-d) up as free-or-donate before, but had many [#NaGaDeMon](https://nagademon.org/about/) files sitting around since November 2018, and decided to quietly release my [Scales & Scoundrels](https://imagecomics.com/comics/releases/scales-scoundrels-1) hack of [Ironsworn](https://www.ironswornrpg.com/)'s quests-and-resources model, [Secret Dragons](https://elstiko.itch.io/secret-dragons). It sold a copy this morning! Whoo, virtual dollar!
 
