@@ -2,7 +2,7 @@
 layout: post
 title: "Itching to Publish?"
 date: 2019-02-05
-excerpt: "Yet another list"
+excerpt: "Get your Games Online"
 tag:
 - game
 - rpg
