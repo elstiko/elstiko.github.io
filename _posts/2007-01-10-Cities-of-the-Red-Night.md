@@ -18,5 +18,6 @@ feature: /assets/img/cotrn.jpg
 
 <div class="payhip-embed-page" data-key="JhuF">...</div><script type="text/javascript" src="https://payhip.com/embed-page.js"></script>
 
-<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=CotRN" width="480" height="400"></iframe> 
+<iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=CotRN" width="480" height="400"></iframe> 
+
 
