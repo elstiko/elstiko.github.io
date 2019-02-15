@@ -10,7 +10,7 @@ comments: true
 feature: /assets/img/cotrn.jpg
 ---
 
-* 2007 - 2010: [Cities of the Red Night](https://payhip.com/cotrn) were a band I wrote/played/sang with. We recorded one EP and one single, and I loved them very much.
+* 2007 - 2011: [Cities of the Red Night](https://payhip.com/cotrn) were a band I wrote/played/sang with. We recorded one EP and one single, and I loved them very much.
 
 <iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=CotRN" width="480" height="400"></iframe> 
 
