@@ -23,8 +23,10 @@ The combination of [tweets like this](https://twitter.com/ActiveNick/status/1092
 * [The Magical Land of Yeld](https://www.drivethrurpg.com/product/256555/The-Magical-Land-of-Yeld) was born out of the [Modest Medusa](http://modestmedusa.com/) comics, and similarly, you might enjoy [Sidekick Quests](https://sidekickquests.com/learn-the-game/), from the eponymous comic!
 * [Fall of Magic](https://heartofthedeernicorn.com/product/fall-of-magic-scroll-edition/?v=6cc98ba2045f) is a beautiful game for any age, the emphasis is on story and characterisation, not at all on any kind of tactical combat. A digital version is also available.
 * [Wildlings](http://www.onesevendesign.com/wildlings/wildlings.pdf) might scratch your Lookouts itch, but in a few months, I'll be releasing [my free hack](https://elstiko.github.io/Revising-Wardlings/) to play a kidventure with the Wardlings miniatures - see [wave 1](https://wizkids.com/wardlings-w1/), [wave 2](https://wizkids.com/wardlings-w2/).
-* For super-simple systems, you can ditch the dice entirely and flip coins in [FlipTales](https://playfliptales.com/)!
+* For super-simple systems, you can ditch the dice entirely and flip coins in [FlipTales](https://playfliptales.com/).
 * [Instant RPG](https://wanderinggm.itch.io/instant-rpg) is a free RPG which fits on a business card, is diceless, paperless, and practically ageless!
 
-Oh, and suggestions are welcome, so if you know something I don't, please let me know in the comments! Thanks!
+Oh, and suggestions are welcome, so if you know something I don't, please let me know in the comments. Thanks!
+
+PS: I totally forgot about [those two official Wizards mini D&D games for youngsters]().
 
