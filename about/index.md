@@ -16,4 +16,4 @@ comments: false
 * Coder of Websites
 * Organiser of Conventions
 
-![https://wheretofind.me/@elstiko](..\assets\img\elstiko.qr.png)
+![https://wheretofind.me/@elstiko](../assets/img/elstiko.qr.png)
