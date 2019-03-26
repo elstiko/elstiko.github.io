@@ -5,7 +5,7 @@ tags: [games]
 date: 2019-01-10
 comments: false
 ---
-    
+
 <center>This <b>blog</b> rummaged through the pockets of the fallen for everything it owns.</center>
 
 ## About Me:
@@ -15,3 +15,5 @@ comments: false
 * Player of Games
 * Coder of Websites
 * Organiser of Conventions
+
+![https://wheretofind.me/@elstiko](..\assets\img\elstiko.qr.png)
